@@ -65,7 +65,7 @@ body{
 
 #header,#main,#sidebar,#footer{
 	width:100%;
-	background:#fff;
+	background:#f00;
 	padding:15px;
 	box-sizing:border-box;
 	margin-top:10px;
